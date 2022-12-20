@@ -1,6 +1,6 @@
 # pMafije
-Rework esxbalkan_mafija
-https://github.com/ESX-Balkan/esxbalkan_mafije
+pMafije su jednostavan rework esxbalkan_mafija
+- https://github.com/ESX-Balkan/esxbalkan_mafije
 # Potrebne skripte
 - ox_lib
 - ox_inventory
